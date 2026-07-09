@@ -44,12 +44,5 @@ Allow webcam access when prompted.
 | Draw Gesture | Draw on Canvas |
 | Open Palm | Stop Drawing |
 
-## Future Enhancements
 
-- Multi-hand support
-- Gesture customization
-- Shape recognition
-- Undo/Redo
-- Voice commands
-- Save drawing as image
 
